@@ -1,7 +1,7 @@
 # Abdal Smart Login Win App
 
 ## Project Programmer
-> Ebrahim Shafiei (EbraSha) -- Prof.Shafiei@Gmail.com
+> Ebrahim Shafiei (EbraSha) - Prof.Shafiei@Gmail.com
 
 ## Made For 
 
